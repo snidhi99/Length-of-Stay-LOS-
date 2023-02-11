@@ -1,12 +1,15 @@
-# Length-of-Stay-LOS-
+# Length-of-Stay-(LOS)
 
-DESCRIPTION
+DESCRIPTION:
+
 To analyze and visualize Length of stay data for hospitals. How does it differ among various diagnosis groups and services.
 
-SUMMARY
+SUMMARY:
+
 Original Visualization
 
 Resources:
+
 Article - https://www.healthcatalyst.com/success_stories/reducing-length-of-stay-in-hospital
 
 Questions Answered:
